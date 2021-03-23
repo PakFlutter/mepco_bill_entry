@@ -1,6 +1,6 @@
 {
-    "name": "window_ap",
-    "short_name": "window_ap",
+    "name": "Pakistan Electricity Bill Data Entry",
+    "short_name": "Pakistan Electricity Bill Data Entry",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

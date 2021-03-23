@@ -11,10 +11,10 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "aded39ccb164fbc01687a501e188e774",
-"/": "aded39ccb164fbc01687a501e188e774",
-"main.dart.js": "f433f5c2b182de9c0a8c00c8c9c5092a",
-"manifest.json": "c4150dfd5d64d0710187a459c5dd22f8",
+"index.html": "33c4cbc0353219ab0a9ead5902ce5eed",
+"/": "33c4cbc0353219ab0a9ead5902ce5eed",
+"main.dart.js": "f0d24eccaed72364b71a6d43922d8110",
+"manifest.json": "3fffa19d7ba8d0eb9aea3c2ed4ef1d30",
 "version.json": "a4a35c33a0c1b1bc230b4cd21058b162"
 };
 
