@@ -56860,7 +56860,7 @@ s=H.pt(a,"E","")
 P.ca(14,"count")
 r=new T.fq(s).Eu(14)
 q=this.a
-q.d.push("Electricity,"+H.c(q.x.a.a)+","+r.i(0)+","+H.c(q.y.a.a)+" \n")
+q.d.push("Electricity,"+H.c(q.x.a.a)+","+r.i(0)+","+H.c(q.y.a.a)+"\n")
 q.f.j8(0,C.Av)
 this.b.lD()
 q.aY(new F.a1U(q))},
